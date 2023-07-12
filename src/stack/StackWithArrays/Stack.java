@@ -5,8 +5,8 @@ package stack.StackWithArrays;
 import stack.StackEmptyException;
 
 public class Stack{
-	int[] data;
-	int top;
+	private int[] data;
+	private int top;
 	
 	public Stack() {
 		top=-1;
