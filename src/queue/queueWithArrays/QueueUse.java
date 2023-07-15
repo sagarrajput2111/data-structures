@@ -20,6 +20,9 @@ public class QueueUse {
 		queue.push(1);
 		queue.push(2);
 		queue.push(3);
+		queue.push(1);
+		queue.push(2);
+		queue.push(3);
 		
 		
 		while(!queue.isEmpty())
